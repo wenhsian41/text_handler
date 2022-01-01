@@ -64,3 +64,11 @@ def do():
 
 if __name__ == '__main__':
     do()
+
+# final output
+# outer: 75% Cotton, 25% Nylon; inner: 90% Wool, 10% Cotton
+# inner: 90% Wool, 10% Cotton; outer: 90% Cotton, 10% Leather
+# outer: 90% Cotton, 10% Viscose; base: 100% Cotton
+#outer: 75% Cotton, 25% Nylon; inner: 90% Wool, 10% Cotton; base: 90% Wool, 10% Cotton
+# base: 90% Wool, 10% Cotton; outer: 75% Cotton, 25% Nylon; inner: 90% Wool, 10% Cotton
+
