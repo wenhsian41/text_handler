@@ -53,7 +53,6 @@ def extract_fabrics(layers, sample):
     return final
 
 def do():
-
     for sample in samples:
         # 1. extract the list of layers with the correct order
         layers = extract_layers(sample)
