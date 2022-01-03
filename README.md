@@ -1,7 +1,7 @@
 # text_handler
 
-inputs are as below<br/>
-samples = <br/>
+inputs are as below<br/><br/>
+inputs = <br/>
            ['outer: 25% Nylon, 75% Cotton; inner: 10% Cotton, 90% Wool', <br/>
            'inner: 10% Cotton, 90% Wool; outer: 90% Cotton, 10% Leather',<br/>
            'outer: 10% Viscose, 90% Cotton; base: 100% Cotton',<br/>
