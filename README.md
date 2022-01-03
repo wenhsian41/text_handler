@@ -1,5 +1,7 @@
 # text_handler
 
+Purpose: Image product descriptions are inputs as below, we can conduct data manipulation to transform them into a desired format so as to imporve customer experiences
+
 inputs are as below<br/><br/>
 inputs = <br/>
            ['outer: 25% Nylon, 75% Cotton; inner: 10% Cotton, 90% Wool', <br/>
