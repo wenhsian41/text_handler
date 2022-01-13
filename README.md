@@ -1,6 +1,6 @@
 # text_handler
 
-Purpose: Image product descriptions are inputs as below, we can conduct data manipulation to transform them into a desired format so as to imporve customer experiences
+Purpose: Imagine product descriptions are inputs as below, we can conduct data manipulation to transform them into a desired format so as to imporve customer experiences
 
 inputs are as below<br/><br/>
 inputs = <br/>
