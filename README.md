@@ -1,6 +1,6 @@
 # text_handler
 
-<sub><b>Purpose:</b> Imagine product descriptions are as below, I built a text handler to transform them into a desired format that imporves customer experiences</sub>
+<sub><b>Purpose:</b> product descriptions are as below, I built a text handler to transform them into a desired format that imporves customer experiences</sub>
 
 <sub><b>inputs = </b><br/>
            ['outer: 25% Nylon, 75% Cotton; inner: 10% Cotton, 90% Wool', <br/>
